@@ -1,7 +1,7 @@
 provider "azurerm" {
   features {}
 
-  subscription_id = "6c378fb3-818c-43a9-8c9e-bfc6ecb08e95"  # 🔁 Replace this with your actual Azure subscription ID
+  subscription_id = "subscription ID"  # 🔁 Replace this with your actual Azure subscription ID
 }
 
 locals {
