@@ -29,7 +29,7 @@ terraform/
 
 ## 🚀 Setup Instructions
 
-1. **Clone the repository:**
+1. **Creating resources**
 
 ```bash
 cd azure-static-website-terraform/terraform
